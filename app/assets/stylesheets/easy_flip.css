@@ -35,18 +35,6 @@
   -moz-transform:rotateY(-180deg);
   transform:rotateY(-180deg);
 }
-.creation p {
-  color:#666;
-  display:block;
-  width:auto;
-  text-align:center;
-  line-height:240px;
-  margin:0 30px;
-  font-size:22px;
-  text-transform:uppercase;
-  text-shadow:1px 1px 1px #999;
-  font-family:sans-serif;
-}
 
 .cont {
   text-align: center;
